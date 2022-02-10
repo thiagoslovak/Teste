@@ -1,7 +1,6 @@
 object FSimples: TFSimples
   Left = 342
   Top = 329
-  BorderIcons = [biSystemMenu, biMinimize]
   Caption = 'FSimples'
   ClientHeight = 145
   ClientWidth = 428
@@ -24,6 +23,10 @@ object FSimples: TFSimples
     Color = clTeal
     ParentBackground = False
     TabOrder = 0
+    ExplicitLeft = 536
+    ExplicitTop = 200
+    ExplicitWidth = 185
+    ExplicitHeight = 41
     object lblNovaLetra: TLabel
       Left = 16
       Top = 75

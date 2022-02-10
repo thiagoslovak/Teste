@@ -1,7 +1,6 @@
 object FGeraTroco: TFGeraTroco
   Left = 439
   Top = 274
-  BorderIcons = [biSystemMenu, biMinimize]
   Caption = 'Gerar Troco'
   ClientHeight = 134
   ClientWidth = 358
@@ -24,6 +23,10 @@ object FGeraTroco: TFGeraTroco
     Color = clHighlight
     ParentBackground = False
     TabOrder = 0
+    ExplicitLeft = 296
+    ExplicitTop = 200
+    ExplicitWidth = 185
+    ExplicitHeight = 41
     object edtValor: TEdit
       Left = 176
       Top = 32

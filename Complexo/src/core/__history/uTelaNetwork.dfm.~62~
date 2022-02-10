@@ -1,7 +1,6 @@
 object FTelaNetwork: TFTelaNetwork
   Left = 390
   Top = 219
-  BorderIcons = [biSystemMenu, biMinimize]
   Caption = 'Network'
   ClientHeight = 322
   ClientWidth = 591
