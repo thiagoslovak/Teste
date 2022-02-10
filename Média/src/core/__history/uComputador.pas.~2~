@@ -1,0 +1,14 @@
+unit uComputador;
+
+interface
+
+uses
+  uIItens;
+
+type
+  TComputador = class (TInterfacedObject, IItens)
+    function RetornaValor(const AValorTroco: Integer): Integer;
+  end;
+implementation
+
+end.

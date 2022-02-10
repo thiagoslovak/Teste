@@ -1,0 +1,34 @@
+unit uTelaSimples;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Buttons;
+
+type
+  TFSimples = class(TForm)
+    btnSubstituirStr: TBitBtn;
+    lblNovaLetra: TLabel;
+    edtNovo: TEdit;
+    edtVelho: TEdit;
+    lblAntigaLetra: TLabel;
+    lblFrase: TLabel;
+    edtStr: TEdit;
+    procedure btnSubstituirStrClick(Sender: TObject);
+  end;
+
+var
+  FSimples: TFSimples;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFSimples.btnSubstituirStrClick(Sender: TObject);
+begin
+  FSubstitui := TSubstitui.Create();
+  FSubstitui.Substituir(edtStr.Text, edtVelho.Text, edtNovo.Text);
+end;
+
+end.

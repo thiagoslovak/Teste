@@ -1,0 +1,15 @@
+unit uFactoryMedia;
+
+interface
+
+uses
+  uTipoItensType,,
+  uIMaquina;
+
+type
+  TFactoryMedia = class
+    class function GetInstance(const AItem: TTipoItensType): IMaquina;
+  end;
+implementation
+
+end.

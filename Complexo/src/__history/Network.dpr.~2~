@@ -1,0 +1,15 @@
+program Network;
+
+uses
+  Vcl.Forms,
+  uTelaNetwork in 'core\uTelaNetwork.pas' {Form1},
+  uNetwork in 'core\uNetwork.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

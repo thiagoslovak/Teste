@@ -1,0 +1,14 @@
+unit uComputador;
+
+interface
+
+uses
+  uIItens;
+
+type
+  TComputador = class (TInterfacedObject, IItens)
+
+  end;
+implementation
+
+end.

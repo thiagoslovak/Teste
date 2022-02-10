@@ -1,0 +1,14 @@
+program Simples;
+
+uses
+  Vcl.Forms,
+  uSimples in 'core\uSimples.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

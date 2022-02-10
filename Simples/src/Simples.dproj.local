@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/26 08:36:25.000.454,=C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:24:12.000.480,=C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:28:17.000.771,C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uSimples.pas</Transaction>
+    <Transaction>2022/02/02 19:28:17.000.771,C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uSimples.dfm</Transaction>
+    <Transaction>2022/02/02 19:28:28.000.027,C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\Simples.dproj</Transaction>
+    <Transaction>2022/02/02 19:31:56.000.879,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:32:11.000.540,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uISubstitui.pas</Transaction>
+    <Transaction>2022/02/02 19:32:16.000.926,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:32:26.000.877,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uSubstitui.pas</Transaction>
+    <Transaction>2022/02/02 19:35:34.000.167,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uSimples.dfm=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uTelaSimples.dfm</Transaction>
+    <Transaction>2022/02/02 19:35:34.000.167,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uSimples.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Simples\src\core\uTelaSimples.pas</Transaction>
+  </Transactions>
+</BorlandProject>

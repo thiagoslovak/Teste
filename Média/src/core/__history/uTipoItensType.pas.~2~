@@ -1,0 +1,14 @@
+unit uTipoItensType;
+
+interface
+
+type TTipoItensType = (
+    tiComputador = 1,
+    tiCelular = 2,
+    tiNotebook = 3,
+    tiMouse = 4
+);
+
+implementation
+
+end.

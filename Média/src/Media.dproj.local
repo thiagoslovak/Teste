@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/26 08:36:25.000.454,=C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:43:06.000.541,=C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:45:13.000.178,C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uTelaMedia.pas</Transaction>
+    <Transaction>2022/02/02 19:45:13.000.178,C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uTelaMedia.dfm</Transaction>
+    <Transaction>2022/02/02 19:45:20.000.832,C:\Users\thiago.belordi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Media.dproj</Transaction>
+    <Transaction>2022/02/02 19:46:10.000.938,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:46:17.000.993,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uTroco.pas</Transaction>
+    <Transaction>2022/02/02 19:46:27.000.658,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:46:35.000.916,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uMaquina.pas</Transaction>
+    <Transaction>2022/02/02 19:46:44.000.044,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit2.pas</Transaction>
+    <Transaction>2022/02/02 19:46:49.000.686,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 19:47:01.000.805,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uIMaquina.pas</Transaction>
+    <Transaction>2022/02/02 20:16:02.000.553,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:16:17.000.875,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uFacedeMaquina.pas</Transaction>
+    <Transaction>2022/02/02 20:17:19.000.169,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:21:44.000.576,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uTipoItensType.pas</Transaction>
+    <Transaction>2022/02/02 20:23:42.000.236,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:24:29.000.605,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uFactoryMedia.pas</Transaction>
+    <Transaction>2022/02/02 20:28:37.000.355,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:30:09.000.097,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uIItens.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:30:27.000.093,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:31:52.000.710,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uComputador.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:33:07.000.971,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:33:45.000.356,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uCelular.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:34:01.000.973,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:34:34.000.065,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uNotebook.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:34:41.000.533,=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:35:16.000.383,C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\core\uMouse.pas=C:\Users\thiago.belordi\Documents\Teste - ViaSoft\teste\Média\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,16 @@
+program Simples;
+
+uses
+  Vcl.Forms,
+  uTelaSimples in 'core\uTelaSimples.pas' {Form1},
+  uISubstitui in 'core\uISubstitui.pas',
+  uSubstitui in 'core\uSubstitui.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

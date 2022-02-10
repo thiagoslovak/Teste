@@ -1,0 +1,21 @@
+unit uMouse;
+
+interface
+
+uses
+  uIItens;
+
+type
+  TMouse = class (TInterfacedObject, IItens)
+    function RetornaValor(const AValorTroco: Integer): Double;
+  end;
+
+implementation
+
+function TMouse.RetornaValor(const AValorTroco: Integer): Double;
+begin
+  Result := 199.90;
+end;
+
+end.
+

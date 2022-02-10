@@ -1,0 +1,41 @@
+unit uSubstitui;
+
+interface
+
+uses
+  Classes,
+  SysUtils,
+  Dialogs,
+  uISubstitui;
+
+type
+  TSubstitui = class(TInterfacedObject,ISubstitui)
+    function Substituir(Str, Velho, Novo: String): String;
+  end;
+
+implementation
+
+function TSubstitui.Substituir(Str, Velho, Novo: String): String;
+var
+  IndexadorS: Integer;
+  TrechosDaString: String[1];
+  StringAuxiliar: String;
+
+begin
+  for IndexadorS := 1 to Length(Str) do
+  begin
+    TrechosDaString := Copy(Str, IndexadorS, 1);
+    if TrechosDaString = Velho then
+      TrechosDaString := Novo;
+
+    StringAuxiliar := StringAuxiliar + TrechosDaString;
+  end;
+
+  Str := StringAuxiliar;
+
+  ShowMessage('Frase: ' + Str + sLineBreak
+             +'Letra substituida: ' + Velho + sLineBreak
+             +'Letra escolhida: ' + Novo);
+end;
+
+end.

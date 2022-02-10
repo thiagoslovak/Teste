@@ -1,0 +1,21 @@
+unit uNotebook;
+
+interface
+
+uses
+  uIItens;
+
+type
+  TNotebook = class (TInterfacedObject, IItens)
+    function RetornaValor(const AValorTroco: Integer): Double;
+  end;
+
+implementation
+
+function TNotebook.RetornaValor(const AValorTroco: Integer): Double;
+begin
+  Result := 5390.99;
+end;
+
+end.
+

@@ -1,0 +1,20 @@
+unit uComputador;
+
+interface
+
+uses
+  uIItens;
+
+type
+  TComputador = class (TInterfacedObject, IItens)
+    function RetornaValor(const AValorTroco: Integer): Double;
+  end;
+
+implementation
+
+function TComputador.RetornaValor(const AValorTroco: Double): Double;
+begin
+  Result := 999.90;
+end;
+
+end.
